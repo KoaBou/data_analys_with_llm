@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+langchain-google-genai
+streamlit
+pandas
+matplotlib
+seaborn
+pygwalker
+tiktoken
+tabulate
