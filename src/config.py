@@ -30,3 +30,8 @@ try:
     logger.add(lambda msg: tqdm.write(msg, end=""), colorize=True)
 except ModuleNotFoundError:
     pass
+
+# LLM
+MODEL_NAME = "gpt-3.5-turbo"
+TEMPERATURE = 0.0
+MAX_TOKENS = 1000

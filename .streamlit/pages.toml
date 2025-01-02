@@ -1,0 +1,9 @@
+[[pages]]
+path = "pages/home.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "pages/interactive_tool.py"
+name = "Interactive Visualization Tool"
+icon = ":books:"

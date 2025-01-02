@@ -1,10 +1,20 @@
+black
+flake8
+isort
+loguru
+mkdocs
+pip
 python-dotenv
+tqdm
+typer
+-e .
 langchain
 langchain-community
 langchain-openai
 langchain-experimental
 langchain-google-genai
 streamlit
+st-pages
 pandas
 matplotlib
 seaborn
