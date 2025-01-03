@@ -8,7 +8,6 @@ from langchain_experimental.agents.agent_toolkits.pandas.base import create_pand
 from loguru import logger
 from src import config
 from src.models.llms import load_llm
-from src.utils import execute_plt_code
 
 def main():
     # Set page config
