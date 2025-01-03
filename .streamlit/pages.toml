@@ -1,9 +1,9 @@
 [[pages]]
-path = "pages/home.py"
-name = "Home"
-icon = "🏠"
+path = "pages/chat_app.py"
+name = "Chat RPT"
+icon = "🌚"
 
 [[pages]]
 path = "pages/interactive_tool.py"
 name = "Interactive Visualization Tool"
-icon = ":books:"
+icon = "📊"
